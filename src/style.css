@@ -1,0 +1,10 @@
+.btn {
+    color: red;
+}
+
+.btn2 {
+   padding: 15px;
+   background-color: aqua;
+   outline: none;
+   border-radius: 5px;
+}
